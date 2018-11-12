@@ -47,11 +47,11 @@ is the repository containing the instruction of additional set-ups and the
 starter code. We don't need to actually install Unity since the enviornment used
 in this project is already provided with a pre-built Unity app.
 
-To run the code, please refer to the notebook
-[Navigation.ipynb](./Navigation.ipynb).
+To run the code, please open the notebook [Navigation.ipynb](./Navigation.ipynb)
+with Jupyter notebook.
 
 ## Reports
 
-[Report](./Navigation.html) to the benchmark version that takes state
+[Report](./Navigation.ipynb) to the benchmark version that takes state
 observations as input.
 
